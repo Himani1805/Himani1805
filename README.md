@@ -212,9 +212,8 @@
 <!--- --->
 
 
-
+<span style="display:flex">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himani1805&show_icons=true&locale=en" alt="himani1805" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himani1805&" alt="himani1805" /></p>
-
+</span>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himani1805&show_icons=true&locale=en&layout=compact" alt="himani1805" /></p>
