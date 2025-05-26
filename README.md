@@ -2,7 +2,7 @@
     <img style="border-radius:100%" width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/raw/main/kathryn.png">
 </p>
 <h1 align="center">Hi, 👋 I'm Himani Sharma</h1>
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=14&size=25&center=true&lines=Full+stack+web+developer...;"/></p>
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=152771&size=25&center=true&lines=Full+stack+web+developer...;"/></p>
 
  
 
