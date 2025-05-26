@@ -19,9 +19,9 @@
 - 💬 Ask me about **Dynamic and detail-oriented professional with robust skills in JavaScript, React.js, and responsive web design. Adept at using Generative AI to innovate user experiences and integrating frontend components with server-side APIs. Quick learner, proficient in mastering new technologies swiftly while ensuring high code quality and scalability.**
 
 - 📫 How to reach me **hinusharma18@gmail.com**
-
+<!---
 - 📄 Know about my experiences [hinusharma18@gmail.com](hinusharma18@gmail.com)
-
+--->
 - ⚡ Fun fact **Serious Mode Only**
 
 
