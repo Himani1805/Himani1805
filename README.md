@@ -7,10 +7,6 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=152771&size=25&center=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Responsive+Web+Applications" alt="Typing animation" />
-</p>
-
-<p align="center">
   <a href="https://himanisharma18.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20Live%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -83,13 +79,7 @@
 | [Avidus Task Manager](https://avidus-task-manager-tau.vercel.app) | RBAC task manager with admin controls, activity logs, charts, and statistics | React, Express.js, MongoDB, JWT, Recharts |
 | [Invoice Extraction AI](https://invoice-extraction-ai-eosin.vercel.app) | AI invoice parser for images/PDFs with structured extraction and storage | React, Tailwind, FastAPI, Gemini, Supabase |
 
-<p align="center">
-  Explore the full project collection on my portfolio:
-  <br />
-  <a href="https://himanisharma18.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="View All Projects on Portfolio" />
-  </a>
-</p>
+Explore the full project collection on my portfolio: **[View All Projects](https://himanisharma18.vercel.app/)**
 
 ## What I Bring
 
@@ -104,13 +94,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himani1805&theme=algolia" alt="Himani Sharma GitHub streak" />
-</p>
-
-<hr>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani1805&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Himani Sharma top languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Himani1805&show_icons=true&locale=en&theme=chartreuse-dark" alt="Himani Sharma GitHub stats" />
 </p>
 
 <h3 align="center">Connect with me</h3>
