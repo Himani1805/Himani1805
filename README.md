@@ -19,13 +19,10 @@
   <a href="https://leetcode.com/u/Himani1805/">
     <img src="https://img.shields.io/badge/LeetCode-Himani1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Himani1805&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Himani1805&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
-</p>
 
 ## About Me
 
@@ -38,7 +35,7 @@
 
 ## Technical Skills
 
-<h3 align="center">Frontend</h3>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -50,7 +47,7 @@
   <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
-<h3 align="center">Backend</h3>
+<p align="center"><b>Backend</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
@@ -59,7 +56,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-<h3 align="center">Database</h3>
+<p align="center"><b>Database</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
@@ -68,20 +65,20 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000000" alt="Supabase" />
 </p>
 
-<h3 align="center">Cloud & Hosting</h3>
+<p align="center"><b>Cloud & Hosting</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" alt="Render" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000" alt="Netlify" />
 </p>
 
-<h3 align="center">Version Control & CI/CD</h3>
+<p align="center"><b>Version Control & CI/CD</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h3 align="center">Preferred IDEs & Tools</h3>
+<p align="center"><b>Preferred IDEs & Tools</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
