@@ -2,7 +2,7 @@
   <img width="180" src="https://himanisharma18.vercel.app/himani-profile-classy.png" alt="Himani Sharma" />
 </p>
 
-<h1 align="center">Hi, 👋 I'm Himani Sharma</h1>
+<h1 align="center">Hi, I'm Himani Sharma</h1>
 
 <h3 align="center">Full Stack Developer</h3>
 
