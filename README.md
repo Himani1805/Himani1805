@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Himani Sharma</h1>
 
-<h3 align="center">Full-Stack Web Developer | React & Frontend Focused</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  I build responsive, accessible, and API-integrated web applications with React, modern frontend tooling, and practical full-stack architecture.
+  I create clean, responsive web applications and connect frontend interfaces with reliable backend APIs.
 </p>
 
 <p align="center">
@@ -16,16 +16,20 @@
   <a href="https://www.linkedin.com/in/himani1805">
     <img src="https://img.shields.io/badge/LinkedIn-Himani%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://leetcode.com/u/Himani1805/">
+    <img src="https://img.shields.io/badge/LeetCode-Himani1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-- React-focused Full-Stack Developer specializing in **responsive UI, reusable components, state management, and API-driven workflows**
-- Building production-style applications across **dashboards, CRM systems, healthcare platforms, admin tools, AI utilities, and e-commerce**
-- Comfortable integrating frontend interfaces with **REST APIs, authentication, databases, file workflows, and async data handling**
-- Strong frontend foundation with practical backend experience using **Node.js, Express.js, MongoDB, PostgreSQL, FastAPI, and Supabase**
+- I am a Full Stack Developer with strong hands-on experience in building responsive, user-friendly web applications.
+- My main strength is frontend development with **React.js**, reusable components, clean UI structure, and smooth API integration.
+- I have built full-stack projects across **dashboards, CRM systems, healthcare platforms, admin tools, AI utilities, and e-commerce applications**.
+- I work with backend APIs, authentication, databases, CRUD flows, file handling, search, filtering, and data visualization.
+- I am a quick learner who focuses on clean code, practical problem solving, and building applications that are easy to use and maintain.
 - Fun fact: **Serious Mode Only**
 
 ## Technical Skills
@@ -86,17 +90,12 @@
 
 ## Connect
 
-<p align="center">
-  <a href="https://himanisharma18.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:hinusharma18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/himani1805">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Himani1805">
-    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+I am open to full-time opportunities, frontend-focused roles, and full-stack development work.
+
+| Platform | Link |
+| --- | --- |
+| Portfolio | [himanisharma18.vercel.app](https://himanisharma18.vercel.app/) |
+| Email | [hinusharma18@gmail.com](mailto:hinusharma18@gmail.com) |
+| LinkedIn | [linkedin.com/in/himani1805](https://www.linkedin.com/in/himani1805) |
+| GitHub | [github.com/Himani1805](https://github.com/Himani1805) |
+| LeetCode | [leetcode.com/u/Himani1805](https://leetcode.com/u/Himani1805/) |
