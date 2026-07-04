@@ -1,257 +1,107 @@
-<p align="center" >
-    <img style="border-radius:100%" width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/raw/main/kathryn.png">
-</p>
-<h1 align="center">Hi, 👋 I'm Himani Sharma</h1>
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=152771&size=25&center=true&lines=Full+stack+web+developer...;"/></p>
+<h1 align="center">Himani Sharma</h1>
 
- 
+<h3 align="center">Full-Stack Web Developer | React & Frontend Specialist</h3>
 
-<!-- <h3 align="center">A passionate Full Stack MERN developer from India</h3> -->
-
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=himani1805&label=Profile%20views&color=0e75b6&style=flat" alt="himani1805" /> <p> -->
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himani1805" alt="himani1805" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Himani1805](https://github.com/Himani1805)
-
-- 💬 Ask me about **Dynamic and detail-oriented professional with robust skills in JavaScript, React.js, and responsive web design. Adept at using Generative AI to innovate user experiences and integrating frontend components with server-side APIs. Quick learner, proficient in mastering new technologies swiftly while ensuring high code quality and scalability.**
-
-- 📫 How to reach me **hinusharma18@gmail.com**
-<!---
-- 📄 Know about my experiences [hinusharma18@gmail.com](hinusharma18@gmail.com)
---->
-- ⚡ Fun fact **Serious Mode Only**
-
-
-
-<!--- Language --->
-<h3 align="center">Languages</h3>
 <p align="center">
-  <!-- <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
+  <a href="mailto:hinusharma18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a> -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+  <a href="https://www.linkedin.com/in/himanisharma">
+    <img src="https://img.shields.io/badge/LinkedIn-Himani%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+  <a href="https://github.com/Himani1805">
+    <img src="https://img.shields.io/badge/GitHub-Himani1805-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-  <!-- <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
-  </a> -->
 </p>
 
-<h3 align="center">Frontend</h3>
 <p align="center">
-      <!-- <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a> -->
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  <!-- <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a> -->
-  <!-- <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-  </a> -->
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <!-- <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a> -->
+  <img src="https://komarev.com/ghpvc/?username=Himani1805&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="center">Backend</h3>
+## About Me
+
+I am a Full-Stack Web Developer with a strong focus on React, frontend architecture, responsive interfaces, and API-driven application development. I specialize in building clean user experiences, integrating frontend components with server-side APIs, and delivering practical full-stack features with attention to scalability and maintainability.
+
+- Specializing in **React.js, JavaScript, Redux, and modern frontend workflows**
+- Building full-stack applications using **Node.js, Express, MongoDB, SQLite, FastAPI, and Supabase**
+- Experienced in integrating **REST APIs, asynchronous data flows, authentication, CRUD systems, and AI-powered features**
+- Quick learner with a strong ability to understand new tools, ship clean code, and adapt to project requirements
+- Fun fact: **Serious Mode Only**
+
+## Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+
+### Tools & Deployment
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=000000)
+
+## Featured Projects
+
+### AI-Integrated Invoice Extraction System
+
+Built an AI-powered invoice extraction platform using **FastAPI, React, Supabase, and the Gemini API**. The system focuses on OCR-based document processing, structured data extraction, and a responsive frontend workflow for reviewing invoice information.
+
+**Highlights:** AI/OCR integration, full-stack API flow, Supabase-backed persistence, React-based review interface.
+
+### Prime Health
+
+Designed a backend system for multi-hospital environments using **MongoDB** with manual **Schema-per-Tenant** data isolation. The project demonstrates backend architecture depth by separating hospital-specific data access patterns and supporting tenant-aware operations.
+
+**Highlights:** Multi-tenant architecture, manual tenant isolation, MongoDB schema design, healthcare-focused backend modeling.
+
+### GitScanner v1.1
+
+Developed a GitHub User Explorer application in **React** with custom hooks and asynchronous GitHub data fetching. The app uses `Promise.all` to coordinate multiple API requests efficiently and improve the responsiveness of user profile exploration.
+
+**Highlights:** React custom hooks, async data fetching, GitHub API integration, `Promise.all` optimization.
+
+### Full-Stack Candidate Management System
+
+Built a candidate management platform with **MVC architecture** and complete **CRUD functionality**. The project supports structured candidate records, backend routing, data persistence, and frontend interaction for managing hiring workflows.
+
+**Highlights:** MVC design, CRUD operations, full-stack workflow, organized server-side structure.
+
+## GitHub Activity
+
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  <!-- <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a>  -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Himani1805&show_icons=true&theme=default&hide_border=true" alt="Himani Sharma GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himani1805&layout=compact&theme=default&hide_border=true" alt="Himani Sharma top languages" />
 </p>
 
-<h3 align="center">Database</h3>
 <p align="center">
-  <!-- <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a> -->
-    <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himani1805&theme=default&hide_border=true" alt="Himani Sharma GitHub streak" />
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+## Connect
+
+I am currently seeking opportunities as a **Frontend Developer**, **React Developer**, or **Full-Stack Web Developer** where I can build polished interfaces and reliable API-integrated applications.
+
 <p align="center">
-  <!-- <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
+  <a href="mailto:hinusharma18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a> -->
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
+  <a href="https://www.linkedin.com/in/himanisharma">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a>  -->
+  <a href="https://github.com/Himani1805">
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
-<!-- <h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  </a> 
-</p> -->
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <!-- <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a> -->
-    <!-- <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a> -->
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  <!-- <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a> -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <!-- <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a> -->
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <!-- <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a> -->
-</p>
-
-
-
-<!--- GIT Stats--->
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=himani1805&theme=algolia" alt="himani1805"  /></p>
-
-<hr>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himani1805&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=himani1805&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-<!-- Trophy -->
-<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=himani1805&theme=juicyfresh&no-bg=true" /> -->
-
-
-<!-- <span style="display:flex">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himani1805&show_icons=true&locale=en" alt="himani1805" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himani1805&" alt="himani1805" /></p>
-</span> -->
-
-<!--- Connect with me --->
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/himanisharma"><img alt="Linkedin" title="Himani Sharma Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/himani-Sharma"><img alt="Github" title="Himani Sharma Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<!--   <a href="https://www.snapchat.com/add/badboy5299"><img alt="Bad Boy Snapchat" title="Himani Sharma SC" src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"></a> -->
-<!--   <a href="https://facebook.com/killerboy.jy"><img alt="Facebook" title="Himani Sharma FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> -->
-<!--   <a href="https://instagram.com/bad_boy_official2"><img alt="Instagram" title="Himani Sharma Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> -->
- </p>
- <p align="center">
-  <a href="mailto:hinusharma18@gmail.com"><img alt="Gmail" title="Himani Sharma Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<!--   <a href="https://t.me/jaydeep91"><img alt="Telegram" title="Jaydeep Yadav Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  -->
-<a href="http://twitter.com/himani__Sharma_"><img alt="Twitter" title="Himani Sharma Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<!-- <a href="https://www.cloudskillsboost.google/public_profiles/7d84e454-3e99-4e55-95bf-5888926e1a5e"><img alt="Qwiklabs" title="Himani Sharma Qwiklabs" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a> -->
-</p>
-<!--- 
-<p ><img style="width:100%; height:800px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himani1805&show_icons=true&locale=en&layout=compact" alt="himani1805" /></p>
---->
