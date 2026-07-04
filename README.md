@@ -25,10 +25,10 @@
 
 ## About Me
 
-- I am a Full Stack Developer with hands-on experience in building responsive, user-friendly web applications.
-- I work across the stack with **React.js, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, and authentication flows**.
-- I have built projects across **dashboards, CRM systems, healthcare platforms, admin tools, AI utilities, and e-commerce applications**.
-- I focus on clean code, practical problem solving, smooth API integration, and applications that are easy to use and maintain.
+- Full Stack Developer experienced in building responsive, user-friendly web applications.
+- Skilled in **React.js, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, and authentication flows**.
+- Built real-world projects across **CRM, healthcare, admin dashboards, AI utilities, e-commerce, and data-driven applications**.
+- Focused on clean code, smooth API integration, practical problem solving, and maintainable application architecture.
 - Fun fact: **Serious Mode Only**
 
 ## Technical Skills
