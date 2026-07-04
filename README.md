@@ -90,12 +90,22 @@
 
 ## Connect
 
-I am open to full-time opportunities, frontend-focused roles, and full-stack development work.
+I am open to full-time Full Stack Developer opportunities where I can build complete, user-focused web applications.
 
-| Platform | Link |
-| --- | --- |
-| Portfolio | [himanisharma18.vercel.app](https://himanisharma18.vercel.app/) |
-| Email | [hinusharma18@gmail.com](mailto:hinusharma18@gmail.com) |
-| LinkedIn | [linkedin.com/in/himani1805](https://www.linkedin.com/in/himani1805) |
-| GitHub | [github.com/Himani1805](https://github.com/Himani1805) |
-| LeetCode | [leetcode.com/u/Himani1805](https://leetcode.com/u/Himani1805/) |
+<p align="center">
+  <a href="https://himanisharma18.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hinusharma18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/himani1805">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Himani1805">
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Himani1805/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
+  </a>
+</p>
