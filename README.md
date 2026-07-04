@@ -36,10 +36,6 @@
 - I am a quick learner who focuses on clean code, practical problem solving, and building applications that are easy to use and maintain.
 - Fun fact: **Serious Mode Only**
 
-## Ask Me About
-
-Dynamic and detail-oriented full-stack development with strong skills in **JavaScript, React.js, responsive web design, REST API integration, backend workflows, and Generative AI-powered features**. I enjoy turning complex requirements into clean, practical, and scalable web applications.
-
 ## Technical Skills
 
 <p align="center">
@@ -88,8 +84,10 @@ Dynamic and detail-oriented full-stack development with strong skills in **JavaS
 | [Invoice Extraction AI](https://invoice-extraction-ai-eosin.vercel.app) | AI invoice parser for images/PDFs with structured extraction and storage | React, Tailwind, FastAPI, Gemini, Supabase |
 
 <p align="center">
+  Explore the full project collection on my portfolio:
+  <br />
   <a href="https://himanisharma18.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Projects-Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="View Projects on Portfolio" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects-Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="View All Projects on Portfolio" />
   </a>
 </p>
 
@@ -100,7 +98,7 @@ Dynamic and detail-oriented full-stack development with strong skills in **JavaS
 - Practical project experience across MERN, PERN, AI-assisted apps, admin panels, and deployment workflows
 - Quick learning ability with a focus on clean, maintainable, and scalable implementation
 
-## GitHub Activity
+## GitHub Stats
 
 ### 🔥 Streak Stats
 
@@ -109,11 +107,6 @@ Dynamic and detail-oriented full-stack development with strong skills in **JavaS
 </p>
 
 <hr>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />
-  <i><b> Git Activeness</b></i>
-</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani1805&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Himani Sharma top languages" />
