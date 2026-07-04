@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Himani Sharma</h1>
+<p align="center">
+  <img width="180" src="https://himanisharma18.vercel.app/himani-profile-classy.png" alt="Himani Sharma" />
+</p>
+
+<h1 align="center">Hi, 👋 I'm Himani Sharma</h1>
 
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  I create clean, responsive web applications and connect frontend interfaces with reliable backend APIs.
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=152771&size=25&center=true&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Responsive+Web+Applications" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -31,6 +35,10 @@
 - I work with backend APIs, authentication, databases, CRUD flows, file handling, search, filtering, and data visualization.
 - I am a quick learner who focuses on clean code, practical problem solving, and building applications that are easy to use and maintain.
 - Fun fact: **Serious Mode Only**
+
+## Ask Me About
+
+Dynamic and detail-oriented full-stack development with strong skills in **JavaScript, React.js, responsive web design, REST API integration, backend workflows, and Generative AI-powered features**. I enjoy turning complex requirements into clean, practical, and scalable web applications.
 
 ## Technical Skills
 
@@ -79,16 +87,40 @@
 | [Avidus Task Manager](https://avidus-task-manager-tau.vercel.app) | RBAC task manager with admin controls, activity logs, charts, and statistics | React, Express.js, MongoDB, JWT, Recharts |
 | [Invoice Extraction AI](https://invoice-extraction-ai-eosin.vercel.app) | AI invoice parser for images/PDFs with structured extraction and storage | React, Tailwind, FastAPI, Gemini, Supabase |
 
-> Explore the full project collection on my portfolio: [himanisharma18.vercel.app](https://himanisharma18.vercel.app/)
+<p align="center">
+  <a href="https://himanisharma18.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Projects-Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="View Projects on Portfolio" />
+  </a>
+</p>
 
 ## What I Bring
 
-- Frontend-first development with strong attention to layout, responsiveness, and user experience
+- Full-stack development with strong attention to layout, responsiveness, user experience, and backend reliability
 - API integration, authentication, CRUD systems, dashboards, filters, search, and data visualization
 - Practical project experience across MERN, PERN, AI-assisted apps, admin panels, and deployment workflows
 - Quick learning ability with a focus on clean, maintainable, and scalable implementation
 
-## Connect
+## GitHub Activity
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himani1805&theme=algolia" alt="Himani Sharma GitHub streak" />
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git" />
+  <i><b> Git Activeness</b></i>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Himani1805&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Himani Sharma top languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Himani1805&show_icons=true&locale=en&theme=chartreuse-dark" alt="Himani Sharma GitHub stats" />
+</p>
+
+<h3 align="center">Connect with me</h3>
 
 I am open to full-time Full Stack Developer opportunities where I can build complete, user-focused web applications.
 
@@ -107,5 +139,8 @@ I am open to full-time Full Stack Developer opportunities where I can build comp
   </a>
   <a href="https://leetcode.com/u/Himani1805/">
     <img src="https://img.shields.io/badge/LeetCode-Practice%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
+  </a>
+  <a href="http://twitter.com/himani__Sharma_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
