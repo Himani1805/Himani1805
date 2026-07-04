@@ -105,7 +105,7 @@ Explore the full project collection on my portfolio: **[View All Projects](https
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himani1805&theme=algolia" alt="Himani Sharma GitHub streak" />
 </p>
 
-<h3 align="left">Connect with me</h3>
+## Connect with me
 
 I am open to full-time Full Stack Developer opportunities where I can build complete, user-focused web applications.
 
