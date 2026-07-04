@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://himanisharma18.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Live%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:hinusharma18@gmail.com">
     <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -25,11 +25,10 @@
 
 ## About Me
 
-- I am a Full Stack Developer with strong hands-on experience in building responsive, user-friendly web applications.
-- My main strength is frontend development with **React.js**, reusable components, clean UI structure, and smooth API integration.
-- I have built full-stack projects across **dashboards, CRM systems, healthcare platforms, admin tools, AI utilities, and e-commerce applications**.
-- I work with backend APIs, authentication, databases, CRUD flows, file handling, search, filtering, and data visualization.
-- I am a quick learner who focuses on clean code, practical problem solving, and building applications that are easy to use and maintain.
+- I am a Full Stack Developer with hands-on experience in building responsive, user-friendly web applications.
+- I work across the stack with **React.js, JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, REST APIs, and authentication flows**.
+- I have built projects across **dashboards, CRM systems, healthcare platforms, admin tools, AI utilities, and e-commerce applications**.
+- I focus on clean code, practical problem solving, smooth API integration, and applications that are easy to use and maintain.
 - Fun fact: **Serious Mode Only**
 
 ## Technical Skills
@@ -80,13 +79,6 @@
 | [Invoice Extraction AI](https://invoice-extraction-ai-eosin.vercel.app) | AI invoice parser for images/PDFs with structured extraction and storage | React, Tailwind, FastAPI, Gemini, Supabase |
 
 Explore the full project collection on my portfolio: **[View All Projects](https://himanisharma18.vercel.app/)**
-
-## What I Bring
-
-- Full-stack development with strong attention to layout, responsiveness, user experience, and backend reliability
-- API integration, authentication, CRUD systems, dashboards, filters, search, and data visualization
-- Practical project experience across MERN, PERN, AI-assisted apps, admin panels, and deployment workflows
-- Quick learning ability with a focus on clean, maintainable, and scalable implementation
 
 ## GitHub Stats
 
