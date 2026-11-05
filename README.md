@@ -212,27 +212,37 @@ Reads invoice images and PDFs into structured data.
   <img src="https://nirzak-streak-stats.koyeb.app/?user=Himani1805&theme=algolia&v=2" alt="Himani Sharma GitHub streak" />
 </p>
 
-## Connect with me
+## Let's build web applications
 
 I am open to full-time Software Developer roles.
 
 <p align="center">
   <a href="https://himanisharma18.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-6B7280?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://himanisharma18.vercel.app/">
+    <img src="https://img.shields.io/badge/himanisharma18.vercel.app-111827?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himani1805">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hinusharma18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/himani1805">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Himani1805">
-    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/Himani1805/">
-    <img src="https://img.shields.io/badge/LeetCode-Practice%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=000000" alt="LeetCode" />
   </a>
   <a href="https://twitter.com/himani__Sharma_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="React, dashboards, CRM, healthcare, and admin tools" />
 </p>
