@@ -201,6 +201,6 @@ I am open to full-time Software Developer roles.
 
 <br/><br/>
 
-<img src="assets/footer.svg?v=3" width="100%" alt="React, dashboards, CRM, healthcare, and admin tools" />
+<img src="assets/footer.svg" width="100%" alt="React, dashboards, CRM, healthcare, and admin tools" />
 
 </div>

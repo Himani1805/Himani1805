@@ -1,13 +1,12 @@
-<svg width="1100" height="210" viewBox="0 0 1100 210" xmlns="http://www.w3.org/2000/svg">
+<svg width="1280" height="220" viewBox="0 0 1280 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="banner" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#8b5cf6"/>
-      <stop offset="38%" stop-color="#6d5ef5"/>
-      <stop offset="70%" stop-color="#3b5bdb"/>
+    <linearGradient id="banner" x1="0" y1="0" x2="1280" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="42%" stop-color="#5b5cf0"/>
       <stop offset="100%" stop-color="#1e3a8a"/>
     </linearGradient>
   </defs>
-  <path fill="url(#banner)" d="M0 48 C 160 18, 280 72, 430 46 C 620 14, 820 8, 1100 42 L 1100 210 L 0 210 Z"/>
-  <text x="550" y="118" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">React · Dashboards · CRM · Healthcare · Admin Tools</text>
-  <text x="550" y="158" text-anchor="middle" fill="#e0e7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-style="italic">Building web applications with React, APIs, and databases.</text>
+  <path fill="url(#banner)" d="M0 36 C 220 8, 360 64, 560 40 C 820 10, 1040 18, 1280 34 L 1280 220 L 0 220 Z"/>
+  <text x="640" y="122" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700">React · Dashboards · CRM · Healthcare · Admin Tools</text>
+  <text x="640" y="164" text-anchor="middle" fill="#ddd6fe" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-style="italic">Building web applications with React, APIs, and databases.</text>
 </svg>
