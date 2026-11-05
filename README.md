@@ -78,13 +78,7 @@
 
 Multi-tenant hospital app for patients, roles, and dashboards.
 
-**Technologies**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+**Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 
 **Project Links**
 
@@ -99,13 +93,7 @@ Multi-tenant hospital app for patients, roles, and dashboards.
 
 Lead CRM with role-based access and real-time alerts.
 
-**Technologies**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
+**Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
 
 **Project Links**
 
@@ -122,12 +110,7 @@ Lead CRM with role-based access and real-time alerts.
 
 Travel enquiries, availability, and AI WhatsApp drafts.
 
-**Technologies**
-
-<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+**Technologies:** <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 
 **Project Links**
 
@@ -142,12 +125,7 @@ Travel enquiries, availability, and AI WhatsApp drafts.
 
 Compares live screens with PDF compliance guidelines.
 
-**Technologies**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+**Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 **Project Links**
 
@@ -164,13 +142,7 @@ Compares live screens with PDF compliance guidelines.
 
 Role-based tasks with activity logs and charts.
 
-**Technologies**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts" />
+**Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts" />
 
 **Project Links**
 
@@ -187,13 +159,7 @@ Role-based tasks with activity logs and charts.
 
 Reads invoice images and PDFs into structured data.
 
-**Technologies**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" />
+**Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" />
 
 **Project Links**
 
