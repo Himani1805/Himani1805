@@ -80,10 +80,7 @@ A hospital platform for more than one organization. Staff manage patients, roles
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 
-**Project Links**
-
-<a href="https://prime-health-one.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
-<a href="https://prime-health-one.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+**Project Links:** Live [https://prime-health-one.vercel.app](https://prime-health-one.vercel.app)
 
 ---
 
@@ -95,12 +92,7 @@ A CRM for tracking leads through the sales pipeline. Admin, Manager, and Sales r
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
 
-**Project Links**
-
-<a href="https://github.com/Himani1805/PowerX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/Himani1805/PowerX"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a>
-<a href="https://power-x-pink.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
-<a href="https://power-x-pink.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+**Project Links:** GitHub [https://github.com/Himani1805/PowerX](https://github.com/Himani1805/PowerX) · Live [https://power-x-pink.vercel.app](https://power-x-pink.vercel.app)
 
 ---
 
@@ -112,10 +104,7 @@ An operations desk for travel enquiries and availability. Staff review each requ
 
 **Technologies:** <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 
-**Project Links**
-
-<a href="https://nomichi-trip-desk-xi.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
-<a href="https://nomichi-trip-desk-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+**Project Links:** Live [https://nomichi-trip-desk-xi.vercel.app](https://nomichi-trip-desk-xi.vercel.app)
 
 ---
 
@@ -127,12 +116,7 @@ An audit tool that checks the live WaiverPro app against its PDF guidelines. It 
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
-**Project Links**
-
-<a href="https://github.com/Himani1805/waiverpro-compliance-agent"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/Himani1805/waiverpro-compliance-agent"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a>
-<a href="https://waiverpro-compliance-agent.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
-<a href="https://waiverpro-compliance-agent.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+**Project Links:** GitHub [https://github.com/Himani1805/waiverpro-compliance-agent](https://github.com/Himani1805/waiverpro-compliance-agent) · Live [https://waiverpro-compliance-agent.vercel.app](https://waiverpro-compliance-agent.vercel.app)
 
 ---
 
@@ -144,12 +128,7 @@ A task manager with separate Admin and User access. Users manage their own tasks
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts" />
 
-**Project Links**
-
-<a href="https://github.com/Himani1805/avidus-task-manager"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/Himani1805/avidus-task-manager"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a>
-<a href="https://avidus-task-manager-tau.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
-<a href="https://avidus-task-manager-tau.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+**Project Links:** GitHub [https://github.com/Himani1805/avidus-task-manager](https://github.com/Himani1805/avidus-task-manager) · Live [https://avidus-task-manager-tau.vercel.app](https://avidus-task-manager-tau.vercel.app)
 
 ---
 
@@ -161,12 +140,7 @@ An app that reads invoice images and PDFs into fields such as vendor, date, and 
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" />
 
-**Project Links**
-
-<a href="https://github.com/Himani1805/invoice_extraction_ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/Himani1805/invoice_extraction_ai"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a>
-<a href="https://invoice-extraction-ai-eosin.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
-<a href="https://invoice-extraction-ai-eosin.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+**Project Links:** GitHub [https://github.com/Himani1805/invoice_extraction_ai](https://github.com/Himani1805/invoice_extraction_ai) · Live [https://invoice-extraction-ai-eosin.vercel.app](https://invoice-extraction-ai-eosin.vercel.app)
 
 [View all projects](https://himanisharma18.vercel.app/)
 
