@@ -7,6 +7,21 @@
 </p>
 
 <p align="center">
+  <a href="https://himanisharma18.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Live%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hinusharma18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/himani1805">
+    <img src="https://img.shields.io/badge/LinkedIn-Himani%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Himani1805/">
+    <img src="https://img.shields.io/badge/LeetCode-Himani1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Himani1805&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://github.com/Himani1805?tab=followers">
     <img src="https://img.shields.io/github/followers/Himani1805?style=for-the-badge&logo=github&logoColor=white&color=1f6feb&label=FOLLOWERS" alt="GitHub followers" />
