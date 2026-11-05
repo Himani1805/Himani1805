@@ -1,38 +1,13 @@
-<svg
-  width="854"
-  height="160"
-  viewBox="0 0 854 160"
-  xmlns="http://www.w3.org/2000/svg"
->
+<svg width="1100" height="210" viewBox="0 0 1100 210" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7c3aed"/>
-      <stop offset="48%" stop-color="#6366f1"/>
-      <stop offset="100%" stop-color="#2563eb"/>
+    <linearGradient id="banner" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="38%" stop-color="#6d5ef5"/>
+      <stop offset="70%" stop-color="#3b5bdb"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
     </linearGradient>
   </defs>
-
-  <path d="M0 36 C 140 8, 280 4, 427 28 C 574 52, 710 8, 854 24 L 854 160 L 0 160 Z" fill="url(#footerGrad)"/>
-
-  <text
-    x="427"
-    y="86"
-    text-anchor="middle"
-    fill="#ffffff"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-    font-size="22"
-    font-weight="700"
-    letter-spacing="0.4"
-  >React · Dashboards · CRM · Healthcare · Admin Tools</text>
-
-  <text
-    x="427"
-    y="118"
-    text-anchor="middle"
-    fill="#e0e7ff"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-    font-size="15"
-    font-style="italic"
-    font-weight="500"
-  >Building web applications with React, APIs, and databases.</text>
+  <path fill="url(#banner)" d="M0 48 C 160 18, 280 72, 430 46 C 620 14, 820 8, 1100 42 L 1100 210 L 0 210 Z"/>
+  <text x="550" y="118" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="700">React · Dashboards · CRM · Healthcare · Admin Tools</text>
+  <text x="550" y="158" text-anchor="middle" fill="#e0e7ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-style="italic">Building web applications with React, APIs, and databases.</text>
 </svg>
