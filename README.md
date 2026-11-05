@@ -88,7 +88,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.koyeb.app/?user=Himani1805&theme=algolia" alt="Himani Sharma GitHub streak" />
+  <img src="https://nirzak-streak-stats.koyeb.app/?user=Himani1805&theme=algolia&v=2" alt="Himani Sharma GitHub streak" />
 </p>
 
 ## Connect with me
