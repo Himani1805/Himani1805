@@ -179,24 +179,15 @@ I am open to full-time Software Developer roles.
 
 <div align="center">
 
-<a href="https://himanisharma18.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Live%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:hinusharma18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/himani1805">
-  <img src="https://img.shields.io/badge/LinkedIn-Himani%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/Himani1805/">
-  <img src="https://img.shields.io/badge/LeetCode-Himani1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
-</a>
-<a href="https://github.com/Himani1805">
-  <img src="https://img.shields.io/badge/GitHub-Himani1805-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://twitter.com/himani__Sharma_">
-  <img src="https://img.shields.io/badge/Twitter-%40himani__Sharma_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
+<a href="https://himanisharma18.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Website-himanisharma18.vercel.app-111827?style=for-the-badge" alt="Website" /></a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/himani1805"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hinusharma18@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Himani1805"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/Himani1805/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=000000" alt="LeetCode" /></a>
+<a href="https://twitter.com/himani__Sharma_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 
 <br/><br/>
 
