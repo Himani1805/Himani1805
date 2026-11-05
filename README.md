@@ -7,11 +7,6 @@
 </p>
 
 <p align="center">
-  <strong>Software Developer | React.js & Next.js | Node.js & Express.js | MongoDB & PostgreSQL | Dashboards, CRM & Healthcare</strong><br/>
-  Open to full-time Software Developer roles · Greater Noida, India
-</p>
-
-<p align="center">
   <a href="https://himanisharma18.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20Live%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
