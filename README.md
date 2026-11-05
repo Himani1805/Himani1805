@@ -84,7 +84,7 @@ A hospital platform for more than one organization. Staff manage patients, roles
 
 🔗 **Project Links:**
 
-<a href="https://prime-health-one.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
+<a href="https://github.com/Himani1805/Prime-Health"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://prime-health-one.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 ---
 
@@ -116,7 +116,7 @@ An operations desk for travel enquiries and availability. Staff review each requ
 
 🔗 **Project Links:**
 
-<a href="https://nomichi-trip-desk-xi.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
+<a href="https://github.com/Himani1805/nomichi-trip-desk"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://nomichi-trip-desk-xi.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 ---
 
