@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=Building+web+applications+with+React.;Dashboards,+CRM+systems,+and+admin+tools.;APIs,+databases,+and+authentication." alt="Building web applications with React" />
+</p>
+
+<p align="center">
   <a href="https://himanisharma18.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-View%20Live%20Site-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
