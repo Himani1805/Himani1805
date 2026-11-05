@@ -76,7 +76,7 @@
 
 **Hospital platform**
 
-Multi-tenant hospital app for patients, roles, and dashboards.
+A hospital platform for more than one organization. Staff manage patients, roles, and dashboards, and each organization only sees its own data.
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 
@@ -91,7 +91,7 @@ Multi-tenant hospital app for patients, roles, and dashboards.
 
 **CRM**
 
-Lead CRM with role-based access and real-time alerts.
+A CRM for tracking leads through the sales pipeline. Admin, Manager, and Sales roles see different records, and the dashboard sends a live alert when a lead changes.
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
 
@@ -108,7 +108,7 @@ Lead CRM with role-based access and real-time alerts.
 
 **Travel operations**
 
-Travel enquiries, availability, and AI WhatsApp drafts.
+An operations desk for travel enquiries and availability. Staff review each request and draft a WhatsApp reply with Gemini before sending it.
 
 **Technologies:** <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
 
@@ -123,7 +123,7 @@ Travel enquiries, availability, and AI WhatsApp drafts.
 
 **AI audit tool**
 
-Compares live screens with PDF compliance guidelines.
+An audit tool that checks the live WaiverPro app against its PDF guidelines. It reads the rules, opens the screens, and lists where the interface does not match.
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 
@@ -140,7 +140,7 @@ Compares live screens with PDF compliance guidelines.
 
 **Task manager**
 
-Role-based tasks with activity logs and charts.
+A task manager with separate Admin and User access. Users manage their own tasks, admins oversee people and activity, and the dashboard charts logins and task changes.
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" /> <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square" alt="Recharts" />
 
@@ -157,7 +157,7 @@ Role-based tasks with activity logs and charts.
 
 **AI invoice parser**
 
-Reads invoice images and PDFs into structured data.
+An app that reads invoice images and PDFs into fields such as vendor, date, and total. Each file goes through FastAPI and Gemini, and the dashboard shows spend by vendor.
 
 **Technologies:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" /> <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=000000" alt="Supabase" />
 
