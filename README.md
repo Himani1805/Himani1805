@@ -204,13 +204,18 @@ Reads invoice images and PDFs into structured data.
 
 [View all projects](https://himanisharma18.vercel.app/)
 
-## GitHub Stats
+## GitHub Activity
 
-### 🔥 Streak Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.koyeb.app/?user=Himani1805&theme=algolia&v=2" alt="Himani Sharma GitHub streak" />
-</p>
+<img height="180" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Himani1805&layout=compact&langs_count=6&hide_border=false&title_color=7c3aed&text_color=4b5563&bg_color=ffffff" alt="Top languages" />
+<img height="180" src="https://nirzak-streak-stats.koyeb.app/?user=Himani1805&hide_border=true&theme=transparent&ring=7C3AED&fire=7C3AED&currStreakNum=7C3AED&sideNums=2563EB&currStreakLabel=7C3AED&sideLabels=2563EB" alt="GitHub streak" />
+
+<br/>
+
+<img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=Himani1805&bg_color=0d1117&color=7c3aed&line=7c3aed&point=2563eb&area=true&hide_border=true&custom_title=Himani%20Sharma%27s%20Contribution%20Graph" alt="Himani Sharma contribution graph" />
+
+</div>
 
 ## Let's build web applications
 
