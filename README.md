@@ -19,7 +19,6 @@
   <a href="https://leetcode.com/u/Himani1805/">
     <img src="https://img.shields.io/badge/LeetCode-Himani1805-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Himani1805&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -84,8 +83,35 @@
 
 [View all projects](https://himanisharma18.vercel.app/)
 
+## GitHub Stats
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himani1805&theme=algolia" alt="Himani Sharma GitHub streak" />
+</p>
+
 ## Connect with me
 
 I am open to full-time Software Developer roles.
 
-[Portfolio](https://himanisharma18.vercel.app/) · [Email](mailto:hinusharma18@gmail.com) · [LinkedIn](https://www.linkedin.com/in/himani1805) · [LeetCode](https://leetcode.com/u/Himani1805/)
+<p align="center">
+  <a href="https://himanisharma18.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:hinusharma18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hinusharma18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/himani1805">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Himani1805">
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/Himani1805/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=000000" alt="LeetCode" />
+  </a>
+  <a href="https://twitter.com/himani__Sharma_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
