@@ -1,10 +1,6 @@
 <p align="center">
-  <img width="180" src="https://himanisharma18.vercel.app/himani-profile-classy.png" alt="Himani Sharma" />
+  <img src="assets/header.svg" width="100%" alt="Himani Sharma, Software Developer" />
 </p>
-
-<h1 align="center">Hi, I'm Himani Sharma</h1>
-
-<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <a href="https://himanisharma18.vercel.app/">

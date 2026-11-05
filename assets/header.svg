@@ -1,0 +1,106 @@
+<svg
+  width="854"
+  height="180"
+  viewBox="0 0 854 180"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <style>
+    .text {
+      font-size: 42px;
+      font-weight: 800;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      letter-spacing: 1.5px;
+    }
+    .desc {
+      font-size: 14px;
+      font-weight: 600;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      letter-spacing: 1.2px;
+    }
+    .text, .desc {
+      animation: twinkling 4s ease-in-out infinite;
+    }
+    @keyframes twinkling {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.88; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <linearGradient id="linearDeep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#1e40af"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="854" height="150" fill="url(#linearDeep)" rx="6"/>
+
+  <g>
+    <path
+      d="M0 0 L0 120 Q213.5 160 427 125 T854 140 L854 0 Z"
+      fill="url(#linear)"
+      opacity="0.8"
+    >
+      <animate
+        attributeName="d"
+        dur="18s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="M0 0 L0 120 Q213.5 160 427 125 T854 140 L854 0 Z;
+                M0 0 L0 135 Q213.5 120 427 140 T854 120 L854 0 Z;
+                M0 0 L0 115 Q213.5 145 427 115 T854 135 L854 0 Z;
+                M0 0 L0 120 Q213.5 160 427 125 T854 140 L854 0 Z"
+      />
+    </path>
+
+    <path
+      d="M0 0 L0 110 Q213.5 140 427 115 T854 130 L854 0 Z"
+      fill="url(#linear)"
+      opacity="0.9"
+    >
+      <animate
+        attributeName="d"
+        dur="18s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-9s"
+        values="M0 0 L0 110 Q213.5 140 427 115 T854 130 L854 0 Z;
+                M0 0 L0 125 Q213.5 110 427 135 T854 115 L854 0 Z;
+                M0 0 L0 130 Q213.5 155 427 120 T854 140 L854 0 Z;
+                M0 0 L0 110 Q213.5 140 427 115 T854 130 L854 0 Z"
+      />
+    </path>
+  </g>
+
+  <text
+    text-anchor="middle"
+    dominant-baseline="middle"
+    x="50%"
+    y="40%"
+    class="text"
+    fill="#ffffff"
+    style="filter: drop-shadow(0 2px 8px rgba(0,0,0,0.5));"
+  >HIMANI SHARMA</text>
+
+  <text
+    text-anchor="middle"
+    dominant-baseline="middle"
+    x="50%"
+    y="65%"
+    class="desc"
+    fill="#e0e7ff"
+    style="filter: drop-shadow(0 1px 4px rgba(0,0,0,0.4));"
+  >SOFTWARE DEVELOPER  "  REACT  "  WEB APPLICATIONS</text>
+</svg>
