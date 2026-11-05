@@ -84,7 +84,7 @@ A hospital platform for more than one organization. Staff manage patients, roles
 
 🔗 **Project Links:**
 
-<a href="https://prime-health-one.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a> <a href="https://prime-health-one.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+<a href="https://prime-health-one.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 ---
 
@@ -100,7 +100,7 @@ A CRM for tracking leads through the sales pipeline. Admin, Manager, and Sales r
 
 🔗 **Project Links:**
 
-<a href="https://github.com/Himani1805/PowerX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://github.com/Himani1805/PowerX"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a> <a href="https://power-x-pink.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a> <a href="https://power-x-pink.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+<a href="https://github.com/Himani1805/PowerX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://power-x-pink.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 ---
 
@@ -116,7 +116,7 @@ An operations desk for travel enquiries and availability. Staff review each requ
 
 🔗 **Project Links:**
 
-<a href="https://nomichi-trip-desk-xi.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a> <a href="https://nomichi-trip-desk-xi.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+<a href="https://nomichi-trip-desk-xi.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 ---
 
@@ -132,7 +132,7 @@ An audit tool that checks the live WaiverPro app against its PDF guidelines. It 
 
 🔗 **Project Links:**
 
-<a href="https://github.com/Himani1805/waiverpro-compliance-agent"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://github.com/Himani1805/waiverpro-compliance-agent"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a> <a href="https://waiverpro-compliance-agent.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a> <a href="https://waiverpro-compliance-agent.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+<a href="https://github.com/Himani1805/waiverpro-compliance-agent"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://waiverpro-compliance-agent.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 ---
 
@@ -148,7 +148,7 @@ A task manager with separate Admin and User access. Users manage their own tasks
 
 🔗 **Project Links:**
 
-<a href="https://github.com/Himani1805/avidus-task-manager"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://github.com/Himani1805/avidus-task-manager"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a> <a href="https://avidus-task-manager-tau.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a> <a href="https://avidus-task-manager-tau.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+<a href="https://github.com/Himani1805/avidus-task-manager"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://avidus-task-manager-tau.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 ---
 
@@ -164,7 +164,7 @@ An app that reads invoice images and PDFs into fields such as vendor, date, and 
 
 🔗 **Project Links:**
 
-<a href="https://github.com/Himani1805/invoice_extraction_ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://github.com/Himani1805/invoice_extraction_ai"><img src="https://img.shields.io/badge/Repository-000000?style=for-the-badge" alt="Repository" /></a> <a href="https://invoice-extraction-ai-eosin.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a> <a href="https://invoice-extraction-ai-eosin.vercel.app"><img src="https://img.shields.io/badge/Demo-16A34A?style=for-the-badge" alt="Demo" /></a>
+<a href="https://github.com/Himani1805/invoice_extraction_ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://invoice-extraction-ai-eosin.vercel.app"><img src="https://img.shields.io/badge/Live-555555?style=for-the-badge" alt="Live" /></a>
 
 [View all projects](https://himanisharma18.vercel.app/)
 
