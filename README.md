@@ -183,37 +183,24 @@ Reads invoice images and PDFs into structured data.
 
 </div>
 
-## Let's build web applications
+## Connect with me
 
 I am open to full-time Software Developer roles.
 
-<p align="center">
-  <a href="https://himanisharma18.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-6B7280?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://himanisharma18.vercel.app/">
-    <img src="https://img.shields.io/badge/himanisharma18.vercel.app-111827?style=for-the-badge" alt="Portfolio" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/himani1805">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hinusharma18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Himani1805">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/u/Himani1805/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=000000" alt="LeetCode" />
-  </a>
-  <a href="https://twitter.com/himani__Sharma_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+<a href="https://himanisharma18.vercel.app/"><img src="https://img.shields.io/badge/🌐%20Website-himanisharma18.vercel.app-111827?style=for-the-badge" alt="Website" /></a>
 
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="React, dashboards, CRM, healthcare, and admin tools" />
-</p>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/himani1805"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:hinusharma18@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Himani1805"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/u/Himani1805/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=000000" alt="LeetCode" /></a>
+<a href="https://twitter.com/himani__Sharma_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="React, dashboards, CRM, healthcare, and admin tools" />
+
+</div>
