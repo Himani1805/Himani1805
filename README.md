@@ -21,12 +21,14 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Himani1805&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://github.com/Himani1805?tab=followers">
     <img src="https://img.shields.io/github/followers/Himani1805?style=for-the-badge&logo=github&logoColor=white&color=1f6feb&label=FOLLOWERS" alt="GitHub followers" />
   </a>
 </p>
+-->
 
 ---
 
