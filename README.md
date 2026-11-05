@@ -179,7 +179,7 @@ Reads invoice images and PDFs into structured data.
 
 <br/>
 
-<img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=Himani1805&bg_color=0d1117&color=7c3aed&line=7c3aed&point=2563eb&area=true&hide_border=true&custom_title=Himani%20Sharma%27s%20Contribution%20Graph" alt="Himani Sharma contribution graph" />
+<img width="100%" src="https://github-act-graph.rodriaum.com/graph?username=Himani1805&bg_color=0d1117&color=e9d5ff&title_color=c4b5fd&line=a78bfa&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true&grid=true&height=420&custom_title=Himani%20Sharma%27s%20Contribution%20Graph" alt="Himani Sharma contribution graph" />
 
 </div>
 
